@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Papas",
+        "description": "Es una papa",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "papa123",
+        "stock": 25,
+        "status": true,
+        "category": "verdura",
+        "id": "1"
+    },
+    {
+        "title": "zanahoria",
+        "description": "Es una papa",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "zanahoria",
+        "stock": 25,
+        "status": true,
+        "category": "verdura",
+        "id": "2"
+    },
+    {
+        "title": "palta",
+        "description": "Es una papa",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "palta",
+        "stock": 25,
+        "status": true,
+        "category": "verdura",
+        "id": "3"
+    }
+]

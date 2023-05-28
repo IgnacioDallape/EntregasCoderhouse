@@ -1,0 +1,28 @@
+[
+    {
+        "Cid": "8ef2ab30-20ee-411a-be4f-aa9b6dc56382",
+        "products": [
+            {
+                "id": "2",
+                "quantity": 3
+            },
+            {
+                "id": "3",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "Cid": "3dce7ed1-b31c-49eb-a0f8-e651897a7741",
+        "products": [
+            {
+                "id": "3",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "Cid": "8ee896f1-f713-4590-924e-4f3c25f48809",
+        "products": []
+    }
+]
